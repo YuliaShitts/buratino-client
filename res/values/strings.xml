@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diplom</string>
+    <string name="update_lecture">Извенить лекцию</string>
+    <string name="delete_lecture">Удалить лекцию</string>
+</resources>

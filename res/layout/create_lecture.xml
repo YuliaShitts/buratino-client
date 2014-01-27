@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="   Создание новой лекции:"
+            android:id="@+id/textView" android:layout_gravity="center"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp" android:layout_gravity="left|center_vertical">
+        <TextView
+                android:layout_width="143dp"
+                android:layout_height="wrap_content"
+                android:text="   Группа:"
+                android:id="@+id/textView1"/>
+        <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="2241"
+                android:id="@+id/etGroup" android:layout_gravity="center_horizontal|top"/>
+    </LinearLayout>
+    <TextView
+            android:layout_width="54dp"
+            android:layout_height="22dp"
+            android:text="   Дата:"
+            android:id="@+id/textView2" android:layout_gravity="left|center_vertical"/>
+    <DatePicker
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/datePicker"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Время"
+            android:id="@+id/textView3" android:layout_gravity="left|center_vertical"/>
+    <TimePicker
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/listView"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <Button
+                android:layout_width="124dp"
+                android:layout_height="wrap_content"
+                android:text="Отмена"
+                android:id="@+id/btnBack"
+                />
+        <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Сохранить"
+                android:id="@+id/btnSaveLecture" android:layout_gravity="center_horizontal|top"/>
+    </LinearLayout>
+</LinearLayout>

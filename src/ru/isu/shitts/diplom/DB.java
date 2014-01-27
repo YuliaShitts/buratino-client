@@ -14,7 +14,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 public class DB {
-    //таблица журнала
+
     private static final String DB_NAME = "dbjournal";
     private static final int DB_VERSION = 1;
 
@@ -23,7 +23,7 @@ public class DB {
     private static final String ST_GROUP_ID = "_id";
     private static final String ST_TITLE = "title";
 
-    //Таблица студентов!!!
+    //Таблица студентов
     private static final String STUDENT = "student";
     public static final String STUDENT_ID = "_id";
     public static final String STUDENT_FIRST_NAME = "first_name";

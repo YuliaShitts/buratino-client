@@ -14,5 +14,6 @@
         </activity>
         <activity android:name=".CreateLecture"></activity>
         <activity android:name=".StudentList"></activity>
+        <activity android:name=".CreateClass"></activity>
     </application>
 </manifest> 

@@ -24,25 +24,33 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f778b538-9a9f-467a-9659-d871f56108a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f778b538-9a9f-467a-9659-d871f56108a4" name="Default" comment="" />
     <ignored path="Diplom.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381049132375" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/ru/isu/shitts/diplom/R.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381049038665" ignored="false" />
+    <file path="/fragment.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389871868584" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381061142546" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/ru/isu/shitts/diplom/R.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389869400981" ignored="false" />
     <file path="$PROJECT_DIR$/gen/ru/isu/shitts/diplom/Manifest.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381647686448" ignored="false" />
     <file path="$PROJECT_DIR$/gen/ru/isu/shitts/diplom/BuildConfig.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381647823763" ignored="false" />
-    <file path="/DB.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1390812719099" ignored="false" />
+    <file path="/DB.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1392881142022" ignored="false" />
     <file path="/viewStudents.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381060745708" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381652469571" ignored="false" />
-    <file path="/MainActivity.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1384352175292" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389869319551" ignored="false" />
+    <file path="/MainActivity.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389869393378" ignored="false" />
     <file path="/ViewStudentClass.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381057298831" ignored="false" />
     <file path="$USER_HOME$/Downloads/Client/Client/src/ru/isu/shitts/Client/ViewStudentClass.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381057328356" ignored="false" />
-    <file path="/CreateLecture.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1385722706636" ignored="false" />
-    <file path="/create_lecture.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1381650558463" ignored="false" />
+    <file path="/CreateLecture.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389348561052" ignored="false" />
+    <file path="/create_lecture.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389345530558" ignored="false" />
     <file path="/StudentList.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1385721237748" ignored="false" />
-    <file path="/Dummy.txt" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1390812699683" ignored="false" />
+    <file path="$PROJECT_DIR$/../Dip/res/values/strings.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389341263874" ignored="false" />
+    <file path="$PROJECT_DIR$/../Dip/AndroidManifest.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389341263874" ignored="false" />
+    <file path="$PROJECT_DIR$/../Dip/build.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389341264751" ignored="false" />
+    <file path="$PROJECT_DIR$/../Dip/src/ru/isu/shitts/Dip/MainActivity.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389341264751" ignored="false" />
+    <file path="$PROJECT_DIR$/../Dip/res/layout/main.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389341264751" ignored="false" />
+    <file path="$PROJECT_DIR$/../Dip/.idea/workspace.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389341550846" ignored="false" />
+    <file path="/strings.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389349423562" ignored="false" />
+    <file path="/Dummy.txt" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1392810883572" ignored="false" />
+    <file path="/create_class.xml" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1389793217607" ignored="false" />
+    <file path="/CreateClass.java" changelist="f778b538-9a9f-467a-9659-d871f56108a4" time="1392814581699" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +117,7 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="44" column="8" selection-start="2130" selection-end="2130" vertical-scroll-proportion="0.0">
+            <state line="52" column="0" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,7 +126,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="43" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+            <state line="3" column="37" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,7 +138,16 @@
             <state />
           </provider>
           <provider editor-type-id="text-editor">
-            <state line="49" column="72" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0">
+            <state line="55" column="38" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="61" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,10 +165,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DB.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DB.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/DB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="40" selection-start="704" selection-end="704" vertical-scroll-proportion="-0.6754967">
+            <state line="71" column="60" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateClass.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="158" column="55" selection-start="5071" selection-end="5071" vertical-scroll-proportion="0.83247423">
               <folding />
             </state>
           </provider>
@@ -160,25 +186,7 @@
       <file leaf-file-name="StudentList.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/StudentList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="55" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateLecture.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateLecture.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="47" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="8" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.0">
+            <state line="20" column="55" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -203,33 +211,25 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitLogSettings">
-    <option name="myDateState">
-      <MyDateState />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/layout/viewStudents.xsl" />
-        <option value="$PROJECT_DIR$/res/layout/viewStudents.html" />
         <option value="$PROJECT_DIR$/res/layout/viewStudents.xml" />
         <option value="$PROJECT_DIR$/src/ru/isu/shitts/diplom/viewStudents.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/res/layout/view_students.xml" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/res/layout/create_lecture.xml" />
         <option value="$PROJECT_DIR$/res/layout/2.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/item.xml" />
-        <option value="$PROJECT_DIR$/src/ru/isu/shitts/diplom/MainActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/student_list.xml" />
         <option value="$PROJECT_DIR$/src/ru/isu/shitts/diplom/StudentList.java" />
+        <option value="$PROJECT_DIR$/res/layout/create_lecture.xml" />
         <option value="$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateLecture.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/ru/isu/shitts/diplom/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/create_class.xml" />
         <option value="$PROJECT_DIR$/src/ru/isu/shitts/diplom/DB.java" />
+        <option value="$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateClass.java" />
       </list>
     </option>
   </component>
@@ -239,7 +239,7 @@
     <option name="width" value="1314" />
     <option name="height" value="776" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -265,6 +265,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,7 +281,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Diplom" />
+              <option name="myItemId" value="buratino-client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,7 +291,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Diplom" />
+              <option name="myItemId" value="buratino-client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -307,15 +309,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Diplom" />
+              <option name="myItemId" value="buratino-client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -325,7 +323,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Diplom" />
+              <option name="myItemId" value="buratino-client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -339,27 +337,28 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Client/Client" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="AndroidLayoutSelectedEditor" value="android-designer" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Em" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Em2.3.3" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.isu.shitts.diplom" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Diplom\src\ru\isu\shitts\diplom" />
       <recent name="C:\Users\User\IdeaProjects\Diplom\res\values" />
@@ -398,19 +397,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -436,6 +422,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -561,11 +560,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1314" height="776" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1314" height="776" extended-state="7" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32301587" sideWeight="0.6730159" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32063493" sideWeight="0.6730159" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -574,18 +571,20 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6873016" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41587302" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.0" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6888889" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17063493" sideWeight="0.31269842" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31111112" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17063493" sideWeight="0.6904762" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30952382" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32301587" sideWeight="0.6904762" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32063493" sideWeight="0.6904762" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298887" sideWeight="0.6730159" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5031746" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -655,9 +654,12 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateLecture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+    <entry file="file://$PROJECT_DIR$/res/layout/item.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="15" column="12" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -692,16 +694,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.IdeaIC12/system/compile-server/diplom_e2bd67b/targets/java-production/Diplom/android/generated_sources/aapt/ru/isu/shitts/diplom/R.java">
+    <entry file="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-10/android.jar!/android/database/sqlite/SQLiteDatabase.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="31" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.40050378" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="44" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="126" column="1" selection-start="7398" selection-end="7398" vertical-scroll-proportion="0.71900827" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/item.xml">
@@ -714,16 +709,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateLecture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="43" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
+        <state line="73" column="1" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-10/android.jar!/android/database/sqlite/SQLiteDatabase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="1" selection-start="7398" selection-end="7398" vertical-scroll-proportion="0.71900827" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/student_list.xml">
@@ -731,21 +721,7 @@
         <state />
       </provider>
       <provider editor-type-id="text-editor">
-        <state line="44" column="8" selection-start="2130" selection-end="2130" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/StudentList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="55" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="8" selection-start="1658" selection-end="1658" vertical-scroll-proportion="0.0">
+        <state line="52" column="0" selection-start="2371" selection-end="2371" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -760,9 +736,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateLecture.java">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="47" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.0">
+        <state line="3" column="37" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="61" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="50" selection-start="1230" selection-end="1230" vertical-scroll-proportion="-0.878553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/StudentList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="55" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -772,14 +769,21 @@
         <state />
       </provider>
       <provider editor-type-id="text-editor">
-        <state line="49" column="72" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0">
+        <state line="55" column="38" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/DB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="40" selection-start="704" selection-end="704" vertical-scroll-proportion="-0.6754967">
+        <state line="71" column="60" selection-start="2863" selection-end="2863" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/isu/shitts/diplom/CreateClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="55" selection-start="5071" selection-end="5071" vertical-scroll-proportion="0.83247423">
           <folding />
         </state>
       </provider>

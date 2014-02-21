@@ -14,8 +14,8 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 public class DB {
-
-    private static final String DB_NAME = "dbjournal";
+    // БД для курсов
+    private static final String DB_NAME = "dbclass";
     private static final int DB_VERSION = 1;
 
     //Таблица групп студентов
@@ -38,6 +38,26 @@ public class DB {
     public static final String LECTURE_DATE = "date_lecture";
     public static final String LECTURE_GROUP = "group_lecture";
     public static final String LECTURE_UPDATE = "updat";
+
+    //Таблица посещаемости
+    //Таблица курсов
+    private static final String CLASS = "class";
+    public static final String CLASS_ID = "_id";
+    public static final String CLASS_TITLE = "title_class";
+    public static final String CLASS_DATE = "date_class";
+    public static final String CLASS_TIME = "time_class";
+    //public static final String LECTURE_UPDATE = "updat";
+
+    private static final String DB_CREATE_CLASS =
+            "create table " + CLASS + "(" +
+                    CLASS_ID + " integer primary key autoincrement, " +
+                    CLASS_TITLE + " text," +
+                    CLASS_DATE + " text," +
+                    CLASS_TIME + " text," +
+                    //CLASS_TIME + " text, " +
+                    //"FOREIGN KEY (" + LECTURE_GROUP + ")" + " REFERENCES " + ST_GROUP + "(" + ST_GROUP_ID + ")" +
+                    ");";
+
 
     private static final String DB_CREATE_STUDENT_GROUP =
             "create table " + ST_GROUP + "(" +

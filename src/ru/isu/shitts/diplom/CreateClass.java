@@ -14,14 +14,17 @@ import android.app.TimePickerDialog;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.*;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
 
-public class CreateLecture extends Activity{
+public class CreateClass extends Activity{
 
-    String fulldate, fulltime;
+    String fulldate, fulltime, formattedTime, formattedDate,time;
     int DIALOG_TIME = 1;
     int myHour = 14;
     int myMinute = 20;
@@ -33,6 +36,8 @@ public class CreateLecture extends Activity{
     int myDay = 13;
     TextView tvDate;
 
+    //DATABASE
+
     DB db;
     SimpleCursorAdapter scAdapterTLecture;
     Cursor cursorTLecture;
@@ -41,7 +46,7 @@ public class CreateLecture extends Activity{
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.create_lecture);
+        setContentView(R.layout.create_class);
         tvTime = (TextView) findViewById(R.id.tvTime);
         tvDate = (TextView) findViewById(R.id.tvDate);
 
@@ -49,7 +54,19 @@ public class CreateLecture extends Activity{
 
         Button btnBack = (Button)findViewById(R.id.btnBack);
 
-        btnBack.setOnClickListener(new View.OnClickListener() {
+       /* String currentDateTimeString = DateFormat.getDateTimeInstance().format(new Date());*/
+
+
+        Calendar c = Calendar.getInstance();
+        SimpleDateFormat tf = new SimpleDateFormat("HH:mm:ss");
+        formattedTime = tf.format(c.getTime());
+        tvTime.setText("   Время: " + formattedTime);
+
+        SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy");
+        formattedDate = df.format(c.getTime());
+        tvDate.setText("   Дата: " + formattedDate);
+
+        btnBack.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent= new Intent(getApplicationContext(),MainActivity.class);
@@ -68,10 +85,17 @@ public class CreateLecture extends Activity{
         btnSaveLecture.setOnClickListener(new OnClickListener(){
             @Override
             public  void onClick(View v) {
-                date = fulldate;
+               if (fulldate==null){
+                   date = formattedDate;
+               }
+               else date=fulldate;
                 student_group = "2231";
                 update = "24/03";
-                title = student_group + ", "+ date + ", " + fulltime;
+                if (fulltime==null){
+                    time = formattedTime;
+                }
+                else time=fulltime;
+                title = student_group + ", "+ date + ", " + time;
                 db.addRecTLecture(title,date,student_group,update);
                 cursorTLecture.requery();
                 Intent intent = new Intent(getApplicationContext(), StudentList.class);
@@ -114,9 +138,18 @@ public class CreateLecture extends Activity{
         public void onDateSet(DatePicker view, int year, int monthOfYear,
                               int dayOfMonth) {
             myYear = year;
-            myMonth = monthOfYear;
+            myMonth = monthOfYear +1;
             myDay = dayOfMonth;
-            fulldate = myDay + "/" + myMonth + "/" + myYear;
+            if (myMonth!= 10){
+            fulldate = myDay + "-" + "0"+ myMonth + "-" + myYear;
+            }
+            else fulldate = myDay + "-" + myMonth + "-" + myYear;
+            if (myMonth!= 11){
+                fulldate = myDay + "-" + "0"+ myMonth + "-" + myYear;
+            }
+            if (myMonth!= 12){
+                fulldate = myDay + "-" + "0"+ myMonth + "-" + myYear;
+            }
             tvDate.setText("   Дата: " + fulldate);
         }
     };

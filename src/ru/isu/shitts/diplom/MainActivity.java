@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
         btnCreateLecture.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent= new Intent(getApplicationContext(),CreateLecture.class);
+                Intent intent= new Intent(getApplicationContext(),CreateClass.class);
                 startActivity(intent);
             }
         });

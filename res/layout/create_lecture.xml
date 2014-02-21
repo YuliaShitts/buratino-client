@@ -25,23 +25,21 @@
                 android:id="@+id/etGroup" android:layout_gravity="center_horizontal|top"/>
     </LinearLayout>
     <TextView
-            android:layout_width="54dp"
-            android:layout_height="22dp"
+            android:layout_width="fill_parent"
+            android:layout_height="24dp"
+            android:clickable="true"
+            android:onClick="onclickData"
             android:text="   Дата:"
-            android:id="@+id/textView2" android:layout_gravity="left|center_vertical"/>
-    <DatePicker
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/datePicker"/>
+            android:id="@+id/tvDate" android:layout_gravity="left|center_vertical"/>
+
     <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="   Время"
-            android:id="@+id/textView3" android:layout_gravity="left|center_vertical"/>
-    <TimePicker
+            android:clickable="true"
+            android:onClick="onclick"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/listView"/>
+            android:layout_height="26dp"
+            android:text="   Время: "
+            android:id="@+id/tvTime" android:layout_gravity="left|center_vertical"/>
+
     <LinearLayout
             android:orientation="horizontal"
             android:layout_width="fill_parent"
